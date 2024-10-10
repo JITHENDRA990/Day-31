@@ -1,0 +1,124 @@
+* {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+        background-image: url("https://occ-0-7613-3663.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABVJ90MJX5sJq91gaCT_zrgmj7Tpl3Fxjr87kNobqy9Z2eow8Eiqt69hZB8OeYE06RMJhW3irEKean49EVThD7BpA--7R6APVGGFZ.jpg?r=f10&quot");
+    }
+    
+    body {
+        background-color: #222;
+        color: white;
+    }
+    nav .logo img{
+        object-fit: contain;
+        max-width: 7%;
+        padding: 3px 4px;
+    }
+    nav{
+        display: flex;
+    }
+    nav .action{
+        display: flex;
+        padding: 5px;
+        gap: 4px;
+    }
+    nav .action .join{
+        padding: 20px 30px;
+        background-color: red;
+    
+    }
+    .action .Joinnow{
+        color: #fff;
+        background-color: red;
+        padding: 15px 30px ;
+        width: 120px;
+        border-radius: 5px;
+        font-size: 15px;
+        margin: 500%;
+    }
+    .action.signup{
+            color: white;
+            background-color: #a3a3a3;
+            padding: 15px 30px;
+            width: 120px;
+            border-radius: 5px;
+            font-size: 15px;
+            height: 140px;
+    
+    }
+    
+    /* linear-gradient(90deg, #181818 10%, hsla(0, 0%, 9%, .98) 20%, hsla(0, 0%, 9%, .97) 25%, hsla(0, 0%, 9%, .95) 35%, hsla(0, 0%, 9%, .94) 40%, hsla(0, 0%, 9%, .92) 45%, hsla(0, 0%, 9%, .9) 50%, hsla(0, 0%, 9%, .87) 55%, hsla(0, 0%, 9%, .82) 60%, hsla(0, 0%, 9%, .75) 65%, hsla(0, 0%, 9%, .63) 70%, hsla(0, 0%, 9%, .45) 75%, hsla(0, 0%, 9%, .27) 80%, hsla(0, 0%, 9%, .15) 85%, hsla(0, 0%, 9%, .08) 90%, hsla(0, 0%, 9%, .03) 95%, hsla(0, 0%, 9%, 0)) */
+    .banner {
+        background: linear-gradient(90deg, #181818 10%, hsla(0, 0%, 9%, .98) 20%, hsla(0, 0%, 9%, .97) 25%, hsla(0, 0%, 9%, .95) 35%, hsla(0, 0%, 9%, .94) 40%, hsla(0, 0%, 9%, .92) 45%, hsla(0, 0%, 9%, .9) 50%, hsla(0, 0%, 9%, .87) 55%, hsla(0, 0%, 9%, .82) 60%, hsla(0, 0%, 9%, .75) 65%, hsla(0, 0%, 9%, .63) 70%, hsla(0, 0%, 9%, .45) 75%, hsla(0, 0%, 9%, .27) 80%, hsla(0, 0%, 9%, .15) 85%, hsla(0, 0%, 9%, .08) 90%, hsla(0, 0%, 9%, .03) 95%, hsla(0, 0%, 9%, 0));
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        max-width: 100%;
+        height: 100vh;
+    }
+    
+    .bannercontent .bannertitle img {
+        object-fit: contain;
+        max-width: 70%;
+    
+    }
+    
+    .bannercontent {
+        padding: 15% 10%;
+    }
+    
+    .bannercontent .bannertitle h1 {
+        font-size: 30px;
+        padding: 10px 0px;
+    
+    }
+    
+    .bannercontent .bannertitle h3 {
+        font-size: 30px;
+        padding: 10px 0px;
+        color: #a3a3a3;
+    
+    }
+    
+    .bannercontent .bannertitle span {
+        padding: 10px 10px;
+    }
+    
+    .bannercontent .bannertitle h2 {
+        font-size: 30px;
+        padding: 15px 0px;
+    }
+    
+    .bannertitle {
+        object-fit: container;
+        max-width: 100%;
+    
+    }
+    
+    .bannercontent .user1 {
+        background-color: #fff;
+        padding: 4px 8px;
+        border: 1px solid #a1a1a1;
+    }
+    
+    h2 {
+        max-width: 40%;
+        padding: 50px 0px;
+    }
+    
+    nav .logo img {
+        object-fit: contain;
+        max-width: 20%;
+    }
+    .span{
+        padding: 10px 20px;
+        max-width: 20%;
+    }
+    join{
+        font-weight: 600;
+    width: 140px;
+    height: 100%;
+    }
+    .signup{
+        font-weight: 600;
+    }
